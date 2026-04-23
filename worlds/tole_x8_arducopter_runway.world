@@ -84,7 +84,7 @@
       </link>
     </model>
 
-    <model name="iris_demo">
+    <model name="tole_x8_with_ardupilot">
       <include>
         <uri>model://tole_x8_with_ardupilot</uri>
       </include>
