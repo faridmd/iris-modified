@@ -183,7 +183,7 @@
             <uri>model://tole_x8/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
-        <material><script><name>Gazebo/DarkGrey</name><uri>__default__</uri></script></material>
+        <material><script><name>Gazebo/Blue</name><uri>__default__</uri></script></material>
       </visual>
       <gravity>1</gravity><velocity_decay/><self_collide>0</self_collide>
     </link>
@@ -274,7 +274,7 @@
       <physics><ode><implicit_spring_damper>1</implicit_spring_damper></ode></physics>
     </joint>
 
-    <!-- rotor_3: Rear-Left Upper (CW, Blue) -->
+    <!-- rotor_3: Rear-Left Upper (CW, Green) -->
     <link name='rotor_3'>
       <pose>-0.2 0.2 0.023 0 0 0</pose>
       <inertial>
@@ -297,7 +297,7 @@
             <uri>model://tole_x8/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
-        <material><script><name>Gazebo/Blue</name><uri>__default__</uri></script></material>
+        <material><script><name>Gazebo/DarkGrey</name><uri>__default__</uri></script></material>
       </visual>
       <gravity>1</gravity><velocity_decay/><self_collide>0</self_collide>
     </link>
@@ -375,7 +375,7 @@
             <uri>model://tole_x8/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
-        <material><script><name>Gazebo/DarkGrey</name><uri>__default__</uri></script></material>
+        <material><script><name>Gazebo/Green</name><uri>__default__</uri></script></material>
       </visual>
       <gravity>1</gravity><velocity_decay/><self_collide>0</self_collide>
     </link>
@@ -413,7 +413,7 @@
             <uri>model://tole_x8/meshes/iris_prop_ccw.dae</uri>
           </mesh>
         </geometry>
-        <material><script><name>Gazebo/Blue</name><uri>__default__</uri></script></material>
+        <material><script><name>Gazebo/DarkGrey</name><uri>__default__</uri></script></material>
       </visual>
       <gravity>1</gravity><velocity_decay/><self_collide>0</self_collide>
     </link>
@@ -451,7 +451,7 @@
             <uri>model://tole_x8/meshes/iris_prop_cw.dae</uri>
           </mesh>
         </geometry>
-        <material><script><name>Gazebo/Blue</name><uri>__default__</uri></script></material>
+        <material><script><name>Gazebo/Green</name><uri>__default__</uri></script></material>
       </visual>
       <gravity>1</gravity><velocity_decay/><self_collide>0</self_collide>
     </link>
